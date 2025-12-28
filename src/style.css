@@ -7,10 +7,8 @@ html {
   --brand-blue: #00acdc;
 }
 
-body,
-ul {
+body {
   margin: 0;
-  padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -29,7 +27,7 @@ ul {
   margin-left: 50px;
 }
 
-.logo img {
+.logo__img {
   display: block;
 }
 
